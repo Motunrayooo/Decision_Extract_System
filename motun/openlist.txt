@@ -1,0 +1,3 @@
+http://127.0.0.1/motun/login/dist/index.php
+http://localhost/motun/dashboard/index.php
+http://localhost/motun/home/index.html
